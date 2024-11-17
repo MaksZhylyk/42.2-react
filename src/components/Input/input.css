@@ -1,0 +1,31 @@
+.main{
+    height: 78px;
+    width: 470px;
+    gap: 4px;
+    margin: 0;
+    padding: 0;
+}
+
+input{
+    height: 50px;
+    width: 460px;
+    gap: 3px;
+    border-radius: 4px;
+}
+
+.label{
+    width: 470px;
+    height: 24px;
+    font-size: 24px;
+    color: rgba(111, 111, 111, 1)
+}
+
+input::placeholder{
+    width: 444px;
+    height: 24px;
+    opacity: 40%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: rgba(30, 30, 30, 1)
+}
+
