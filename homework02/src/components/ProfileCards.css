@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/modern-desktop-background-geometric-blue-design-vector_53876-135923.jpg");
+    background-size: 100%;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: rgb(205, 198, 198);
+}
+
+div{
+    margin: 2px;
+    padding: 1px;
+    color: rgb(205, 198, 198);
+}
